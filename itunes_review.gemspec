@@ -16,5 +16,4 @@ Gem::Specification.new do |gem|
   gem.version       = version
 
   gem.add_dependency 'hpricot'
-  gem.add_dependency 'httparty'
 end
