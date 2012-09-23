@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    itunes_review (0.0.4)
+    itunes_review (0.0.5)
       hpricot
 
 GEM
